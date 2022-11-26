@@ -97,26 +97,31 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ## Output:
 
 
-Profit Prediction :
+## Profit Prediction :
 
 ![0000](https://user-images.githubusercontent.com/94747031/193342367-20be0b59-2813-4d7b-a5e1-83b8dbf8e6d1.png)
 
-Function Output :
+## Function Output :
+
 ![out](https://user-images.githubusercontent.com/94747031/204081124-91d17dfc-3308-42ed-a013-279bc499f556.png)
 
-Gradient Descent :
+## Gradient Descent :
+
 ![pred](https://user-images.githubusercontent.com/94747031/204081154-f0e3237a-5730-49d8-9ab1-c25af4924907.png)
 
-Cost function using Gradient Descent :
+## Cost function using Gradient Descent :
+
 ![cost](https://user-images.githubusercontent.com/94747031/204081200-1efb5179-f0be-4694-bdea-7e4703ee1e5c.png)
 
-Linear Regression using Profit Prediction :
+## Linear Regression using Profit Prediction :
+
 ![popu](https://user-images.githubusercontent.com/94747031/204081279-96125500-dc39-412b-9fe9-4f4232ab181f.png)
 
-Profit Prediction for a population of 35000 :
+## Profit Prediction for a population of 35000 :
+
 ![profit](https://user-images.githubusercontent.com/94747031/204081407-f00dffb1-1c2e-4bc1-8957-7e0315652e1f.png)
 
-Profit Prediction for a population of 70000 :
+## Profit Prediction for a population of 70000 :
 
 ![round](https://user-images.githubusercontent.com/94747031/204081460-26904550-35b6-483a-a7db-b117d86086aa.png)
 
