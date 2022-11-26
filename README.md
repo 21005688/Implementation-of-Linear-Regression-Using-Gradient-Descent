@@ -97,21 +97,28 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ## Output:
 
 
-![6666](https://user-images.githubusercontent.com/94747031/193342362-8c2bc825-5f6c-49cc-b58f-a2cacc4b3782.png)
-
 Profit Prediction :
 
 ![0000](https://user-images.githubusercontent.com/94747031/193342367-20be0b59-2813-4d7b-a5e1-83b8dbf8e6d1.png)
 
+Function Output :
+![out](https://user-images.githubusercontent.com/94747031/204081124-91d17dfc-3308-42ed-a013-279bc499f556.png)
 
-![99999](https://user-images.githubusercontent.com/94747031/193342369-faff7d40-aea9-45a4-90d8-cd677adb57c5.png)
+Gradient Descent :
+![pred](https://user-images.githubusercontent.com/94747031/204081154-f0e3237a-5730-49d8-9ab1-c25af4924907.png)
 
+Cost function using Gradient Descent :
+![cost](https://user-images.githubusercontent.com/94747031/204081200-1efb5179-f0be-4694-bdea-7e4703ee1e5c.png)
 
-![8888](https://user-images.githubusercontent.com/94747031/193342370-e2e9d9fd-1b2e-4a92-8821-6b4714fad6bc.png)
+Linear Regression using Profit Prediction :
+![popu](https://user-images.githubusercontent.com/94747031/204081279-96125500-dc39-412b-9fe9-4f4232ab181f.png)
 
+Profit Prediction for a population of 35000 :
+![profit](https://user-images.githubusercontent.com/94747031/204081407-f00dffb1-1c2e-4bc1-8957-7e0315652e1f.png)
 
-![7777](https://user-images.githubusercontent.com/94747031/193342373-d6296f86-5c1b-4d23-819b-a367784628a0.png)
+Profit Prediction for a population of 70000 :
 
+![round](https://user-images.githubusercontent.com/94747031/204081460-26904550-35b6-483a-a7db-b117d86086aa.png)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
